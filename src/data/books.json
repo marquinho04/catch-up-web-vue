@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "pages": 223,
+    "cover": "https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/covers/1.png"
+  },
+  {
+    "id": 2,
+    "pages": 251,
+    "cover": "https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/covers/2.png"
+  },
+  {
+    "id": 3,
+    "pages": 317,
+    "cover": "https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/covers/3.png"
+  },
+  {
+    "id": 4,
+    "pages": 636,
+    "cover": "https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/covers/4.png"
+  },
+  {
+    "id": 5,
+    "pages": 766,
+    "cover": "https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/covers/5.png"
+  },
+  {
+    "id": 6,
+    "pages": 607,
+    "cover": "https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/covers/6.png"
+  },
+  {
+    "id": 7,
+    "pages": 607,
+    "cover": "https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/covers/7.png"
+  },
+  {
+    "id": 8,
+    "pages": 336,
+    "cover": "https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/covers/8.png"
+  }
+]

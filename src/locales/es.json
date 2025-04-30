@@ -1,0 +1,39 @@
+{
+  "books": {
+    "1": {
+      "title": "Harry Potter y la piedra filosofal",
+      "description": "Harry descubre que es hijo de dos magos muy conocidos y debe asistir a Hogwarts."
+    },
+    "2": {
+      "title": "Harry Potter y la cámara secreta",
+      "description": "Una amenaza maligna acecha en Hogwarts durante el segundo año de Harry."
+    },
+    "3": {
+      "title": "Harry Potter y el prisionero de Azkaban",
+      "description": "Harry descubre a Sirius Black y su supuesta conexión con Voldemort."
+    },
+    "4": {
+      "title": "Harry Potter y el cáliz de fuego",
+      "description": "Harry es elegido para participar en el peligroso Torneo de los Tres Magos."
+    },
+    "5": {
+      "title": "Harry Potter y la Orden del Fénix",
+      "description": "Harry entrena a los estudiantes para defenderse de las artes oscuras en medio de la agitación política."
+    },
+    "6": {
+      "title": "Harry Potter y el príncipe mestizo",
+      "description": "Harry y Dumbledore buscan la clave para derrotar a Voldemort."
+    },
+    "7": {
+      "title": "Harry Potter y las reliquias de la muerte",
+      "description": "Harry, Ron y Hermione van en una misión para destruir los Horrocruxes de Voldemort."
+    },
+    "8": {
+      "title": "Harry Potter y el niño maldito",
+      "description": "El hijo de Harry entabla amistad con Scorpius y oscuros secretos del pasado salen a la luz."
+    }
+  },
+  "author": "Este contenido fue creado por Marco Antonio Nakasone Gomes",
+  "search": "buscar",
+  "page": "páginas"
+}
