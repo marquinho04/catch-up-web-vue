@@ -1,38 +1,4 @@
 {
-  "books": {
-    "1": {
-      "title": "Harry Potter and the Sorcerer's Stone",
-      "description": "Harry discovers that he is the son of two well-known wizards and must attend Hogwarts."
-    },
-    "2": {
-      "title": "Harry Potter and the Chamber of Secrets",
-      "description": "A malevolent threat lurks at Hogwarts in Harry's second year."
-    },
-    "3": {
-      "title": "Harry Potter and the Prisoner of Azkaban",
-      "description": "Harry learns about Sirius Black and his supposed connection to Voldemort."
-    },
-    "4": {
-      "title": "Harry Potter and the Goblet of Fire",
-      "description": "Harry is chosen for the dangerous Triwizard Tournament."
-    },
-    "5": {
-      "title": "Harry Potter and the Order of the Phoenix",
-      "description": "Harry trains students to defend against dark magic amid political turmoil."
-    },
-    "6": {
-      "title": "Harry Potter and the Half-Blood Prince",
-      "description": "Harry and Dumbledore search for the key to defeating Voldemort."
-    },
-    "7": {
-      "title": "Harry Potter and the Deathly Hallows",
-      "description": "Harry, Ron and Hermione go on a mission to destroy Voldemort's Horcruxes."
-    },
-    "8": {
-      "title": "Harry Potter and the Cursed Child",
-      "description": "Harry’s son befriends Scorpius, and dark secrets emerge from the past."
-    }
-  },
   "author": "This content was created by Marco Antonio Nakasone Gomes",
   "search": "search",
   "page": "pages"
