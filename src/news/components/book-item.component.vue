@@ -25,14 +25,14 @@ export default {
       <img :alt="book.title" :src="book.cover" class="image-fit"/>
     </template>
     <template #title>
-      <p>{{ book.title }} {{$t('title')}}</p>
+      <p>{{ book.title }}</p>
     </template>
     <template #subtitle>
       <p>{{book.originalTitle}}</p>
     </template>
     <template #content>
       <p class="flex align-content-start flex-wrap">
-        {{ book.description }} {{$t('description')}}
+        {{ book.description }}
       </p>
     </template>
     <template #footer>
