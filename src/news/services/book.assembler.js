@@ -1,6 +1,6 @@
-    import {Book} from "../model/book.entity.js"
+import {Book} from "../model/book.entity.js"
 
-    export class BookAssembler {
+export class BookAssembler {
         static toEntityFromResource(resource) {
             return new Book({
                 title: resource.title,

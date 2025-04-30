@@ -18,8 +18,8 @@
 import FooterContent from "./public/components/footer-content.component.vue";
 import BookList from "./news/components/book-list.component.vue";
 import LanguageSwitcher from "./public/components/language-switcher.component.vue";
-import { HarryPotterApiService } from "./news/services/harry-potter-api.service.js";
-import { BookAssembler } from "./news/services/book.assembler.js";
+import {HarryPotterApiService} from "./news/services/harry-potter-api.service.js";
+import {BookAssembler} from "./news/services/book.assembler.js";
 import HeaderContent from "./public/components/header-content.component.vue";
 
 export default {
